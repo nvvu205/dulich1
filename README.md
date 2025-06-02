@@ -166,7 +166,7 @@
       <input type="text" placeholder="Họ và tên" class="w-full p-2 border rounded">
       <input type="email" placeholder="Email" class="w-full p-2 border rounded">
       <textarea rows="4" placeholder="Nội dung" class="w-full p-2 border rounded"></textarea>
-      <button type="submit" class="bg-sky-600 text-white px-4 py-2 rounded hover:bg-sky-700">Gửi</button>
+      <center><button type="submit" class="bg-sky-600 text-white px-4 py-2 rounded hover:bg-sky-700">Gửi</button></center>
     </form>
   </section>
 
